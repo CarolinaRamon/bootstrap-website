@@ -14,6 +14,7 @@ Componentes y utilidades de Bootstrap:
 
 ## 100% responsive
 
+
 ![Section 1](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/website-1.png "Section 1")
 
 ![Section 2](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/website-2.png "Section 2")
