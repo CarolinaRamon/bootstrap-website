@@ -12,8 +12,6 @@ Componentes y utilidades de Bootstrap:
 - Collapse
 - Sticky-top
 
-## 100% responsive
-
 
 ![Section 1](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/website-1.png "Section 1")
 
@@ -23,7 +21,11 @@ Componentes y utilidades de Bootstrap:
 
 ![Section 4](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/website-4.png "Section 4")
 
-![Responsive](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/responsive.png "Responsive")
+## 100% responsive
+
+![Responsive](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/responsive-1.png "Responsive")
+
+![Responsive](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-website/main/imagenes/responsive-2.png "Responsive")
 
 
 
